@@ -1,4 +1,4 @@
-import 'package:bangun_datar_rpl_b/page/home_page.dart';
+import 'package:bangun_datar_kelas_b/page/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
