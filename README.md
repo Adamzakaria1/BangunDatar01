@@ -1,6 +1,6 @@
 # bangun_datar_kelas_b
 
-A new Flutter project.
+aplikasi hitung bangun datar
 
 ## Getting Started
 
