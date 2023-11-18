@@ -1,11 +1,11 @@
 {
-    "name": "bangun_datar_rpl_b",
-    "short_name": "bangun_datar_rpl_b",
+    "name": "bangun_datar_kelas_b",
+    "short_name": "bangun_datar_kelas_b",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "aplikasi hitung bangun datar",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
